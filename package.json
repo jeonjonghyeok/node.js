@@ -1,0 +1,11 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "Cloning Youtube",
+  "main": "index.js",
+  "author": "Jeon Jong Hyeok",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
